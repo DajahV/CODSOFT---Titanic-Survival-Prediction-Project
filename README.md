@@ -1,6 +1,9 @@
 # This is an Internship Project from CODESOFT 
 This is an internship project I was assigned to by CODESOFT company. 
 
+<a ref = />Click here for a step wise video approach I took to soft this problem  
+
+
 I use the Titanic dataset to build a model that predicts whether a
 passenger on the RMS Titanic survived the ship wrenck or not. 
 
