@@ -1,5 +1,6 @@
-# This is an Internship Project I Participate in from CODESOFT 
-This is an internship project I was assigned to by CODESOFT company. 
+# This is a Data Science Internship I participate in with CODSOFT
+
+In this internship project I built a model that can classify if passengers on the ill fated RMS titanic either survive or died on the ship 
 
 <a href> Click here to see my YouTube video for a stepwise approach I took to solve this problem
 
