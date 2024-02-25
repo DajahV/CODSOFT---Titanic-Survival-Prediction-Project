@@ -1,7 +1,7 @@
 # This is an Internship Project I Participate in from CODESOFT 
 This is an internship project I was assigned to by CODESOFT company. 
 
-<a ref =  />Click here for a step wise video approach I took to soft this problem  
+<a href =  />Click here for a step wise video approach I took to soft this problem  
 
 
 I use the Titanic dataset.csv to build a model that predicts whether a
